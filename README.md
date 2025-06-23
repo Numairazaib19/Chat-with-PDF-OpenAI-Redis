@@ -61,4 +61,4 @@ Everything is shown in a clean Streamlit web app — from uploading to chatting,
 
 ## 🖼️ App Screenshot
 
-![app](images/result 1.png)
+![app](screenshots/result 1.png)
